@@ -18,6 +18,8 @@ Key features of the implementation include:
 - Finger table initialization and usage for efficient routing
 - Bubble sort algorithm for sorting node IDs
 
+Largest Network tested: 5000 Nodes
+
 ## Failure Models
 
 This implementation includes two types of failure models:
