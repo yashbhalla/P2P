@@ -1,9 +1,5 @@
 # P2P
 
-## Team Members
-- Shrey Gupta
-- Yash Bhalla
-
 ## Overview
 
 The Chord protocol is designed to efficiently locate nodes responsible for storing a particular data item in a distributed system. This implementation uses consistent hashing to assign keys to nodes and provides a scalable solution for peer-to-peer systems.
